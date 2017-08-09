@@ -1,0 +1,18 @@
+{
+    "name": "restaurant-chatbot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "apiai_recognizer.js",
+    "dependencies": {
+        "apiai": "^4.0.3",
+        "botbuilder": "^3.9.0",
+        "restify": "^5.0.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+}
